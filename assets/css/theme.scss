@@ -362,6 +362,7 @@ img, img:hover {
         cursor:pointer;
         &:hover {
             background: $primary;
+            color: #fff;
             text-decoration:none;
         }
     }
